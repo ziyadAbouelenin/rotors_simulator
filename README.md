@@ -37,10 +37,10 @@ $ catkin build
 
 ```console
 $ cd ~/catkin_ws/src
-$ git clone https://github.com/ethz-asl/ethzasl_msf.git
-$ git clone https://github.com/ethz-asl/rotors_simulator_demos.git
-$ git clone https://github.com/ethz-asl/glog_catkin.git
-$ git clone https://github.com/catkin/catkin_simple.git
+$ git clone https://github.com/ziyadAbouelenin/ethzasl_msf.git
+$ git clone https://github.com/ziyadAbouelenin/rotors_simulator_demos.git
+$ git clone https://github.com/ziyadAbouelenin/glog_catkin.git
+$ git clone https://github.com/ziyadAbouelenin/catkin_simple.git
 $ cd ~/catkin_ws /
 $ catkin build
 ```
